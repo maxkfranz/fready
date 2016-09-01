@@ -15,6 +15,10 @@
         document.body.appendChild( div );
 
         console.log('Ready');
+
+        fready(function(){
+          console.log('Already ready');
+        });
       });
 
       console.log('Waiting...');
