@@ -1,5 +1,7 @@
 # fready
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/maxkfranz/fready.svg)](https://greenkeeper.io/)
+
 A minimalistic API for DOMContentLoaded.  
 
 - Your function is run on `DOMContentLoaded`.
